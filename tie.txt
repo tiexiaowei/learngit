@@ -1,1 +1,1 @@
-ĞŞ¸ÄtieÎÄ¼ş
+/usr/bin/bash: q: command not found
